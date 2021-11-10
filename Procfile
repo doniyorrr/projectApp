@@ -1,4 +1,4 @@
 
-web:node srs/server.js 
+web:node src/server.js 
 
 
